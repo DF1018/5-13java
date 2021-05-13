@@ -3,6 +3,7 @@
 public extendDemo;
 
 class CMath {
+
    public void getMax(int a, int b) {
       int bigNum;
       if (a > b)
@@ -33,6 +34,7 @@ public class ExtendDemo {
 		System.out.println();
 		math1.getFactorial(5);    // 呼叫子類別自己的方法
 	}
+	
 }
 
 
